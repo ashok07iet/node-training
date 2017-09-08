@@ -1,0 +1,30 @@
+[
+    {
+        "Product": "Monitor",
+        "Price": 199.99,
+        "Quantity": 5.0,
+        "Date": "2017-07-11T09:31:26.000Z",
+        "CustomerId": 1.0
+    },
+    {
+        "Product": "Speakers",
+        "Price": 499.99,
+        "Quantity": 3.0,
+        "Date": "2017-08-05T09:31:26.000Z",
+        "CustomerId": 1.0
+    },
+    {
+        "Product": "Glove",
+        "Price": 99.99,
+        "Quantity": 3.0,
+        "Date": "2017-07-24T09:31:26.000Z",
+        "CustomerId": 9.0
+    },
+    {
+        "Product": "Chair",
+        "Price": 129.99,
+        "Quantity": 3.0,
+        "Date": "2017-07-29T09:31:26.000Z",
+        "CustomerId": 1.0
+    }
+]

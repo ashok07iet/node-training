@@ -1,0 +1,86 @@
+[
+    {
+        "customerId": 9.0,
+        "FirstName": "Michelle",
+        "LastName": "Avery",
+        "Email": "Michelle.Avery@acmecorp.com",
+        "Address": "346 Cedar Ave.",
+        "City": "Dallas",
+        "State": {
+            "Name": "Texas",
+            "Abbreviation": "TX"
+        },
+        "Zip": 85237.0,
+        "Gender": "Female"
+    },
+    {
+        "customerId": 10.0,
+        "FirstName": "Heedy",
+        "LastName": "Wahlin",
+        "Email": "Heedy.Wahlin@hotmail.com",
+        "Address": "4576 Main St.",
+        "City": "New York",
+        "State": {
+            "Name": "New York",
+            "Abbreviation": "NY"
+        },
+        "Zip": 85238.0,
+        "Gender": "Female"
+    },
+    {
+        "customerId": 11.0,
+        "FirstName": "Thomas",
+        "LastName": "Martin",
+        "Email": "Thomas.Martin@outlook.com",
+        "Address": "964 Point St.",
+        "City": "White Plains",
+        "State": {
+            "Name": "New York",
+            "Abbreviation": "NY"
+        },
+        "Zip": 85239.0,
+        "Gender": "Male"
+    },
+    {
+        "customerId": 12.0,
+        "FirstName": "Jean",
+        "LastName": "Martin",
+        "Email": "Jean.Martin@outlook.com",
+        "Address": "98756 Center St.",
+        "City": "Las Vegas",
+        "State": {
+            "Name": " Nevada",
+            "Abbreviation": "NV"
+        },
+        "Zip": 85240.0,
+        "Gender": "Female"
+    },
+    {
+        "customerId": 13.0,
+        "FirstName": "Robin",
+        "LastName": "Cleark",
+        "Email": "Robin.Cleark@acmecorp.com",
+        "Address": "35632 Richmond Circle Apt B",
+        "City": "Los Angeles",
+        "State": {
+            "Name": "California",
+            "Abbreviation": "CA"
+        },
+        "Zip": 85241.0,
+        "Gender": "Female"
+    },
+    {
+        "customerId": 14.0,
+        "FirstName": "Juan",
+        "LastName": "Paulo",
+        "Email": "Juan.Paulo@yahoo.com",
+        "Address": "2352 Angular Way",
+        "City": "Portland",
+        "State": {
+            "Name": "Oregon",
+            "Abbreviation": "OR"
+        },
+        "Zip": 85242.0,
+        "Gender": "Male"
+    }
+]

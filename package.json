@@ -1,0 +1,16 @@
+{
+    "name": "Node-training",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "choura",
+    "contributors": [],
+    "dependencies": {
+        "bluebird": "^3.5.0"
+    }
+}

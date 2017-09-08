@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1.0,
+        "name": "Alabama",
+        "abbreviation": "AL"
+    },
+    {
+        "id": 2.0,
+        "name": "Montana",
+        "abbreviation": "MT"
+    },
+    {
+        "id": 3.0,
+        "name": "Alaska",
+        "abbreviation": "AK"
+    },
+    {
+        "id": 4.0,
+        "name": "Nebraska",
+        "abbreviation": "NE"
+    },
+    {
+        "id": 5.0,
+        "name": "Arizona",
+        "abbreviation": "AZ"
+    },
+    {
+        "id": 6.0,
+        "name": "Nevada",
+        "abbreviation": "NV"
+    },
+    {
+        "id": 7.0,
+        "name": "Arkansas",
+        "abbreviation": "AR"
+    }
+]
